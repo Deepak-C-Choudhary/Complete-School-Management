@@ -38,18 +38,17 @@ Ensure the following software is installed on your system:
 #### Installation ####
 
 1. Clone the Repository
-    - bash
-    - Copy code
-    - git clone https://github.com/Deepak-C-Choudhary/Complete-School-Management
-    - cd school-management
-      
-2. Backend Setup
-    Install Backend Dependencies:
+   Copy code
 
-    - bash
-    - Copy code
-    - cd backend
-    - npm install
+       git clone https://github.com/Deepak-C-Choudhary/Complete-School-Management
+       cd school-management
+      
+3. Backend Setup
+    Install Backend Dependencies:
+    Copy code
+
+       cd backend
+       npm install
       
 
 #### Set Up Database: ####
