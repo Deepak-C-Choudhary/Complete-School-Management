@@ -14,6 +14,7 @@ app.use(cors({
   origin: process.env.FRONTEND_URL, 
   credentials: true, 
 }));
+// app.use(cors()); (use it instead of above code, when running on local host)
 app.use(bodyParser.json());
 
 // Routes
