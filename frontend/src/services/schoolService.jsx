@@ -1,7 +1,7 @@
 
 import axios from "axios";
 
-const API_URL = "https://complete-school-management.onrender.com";
+const API_URL = "https://complete-school-management-backend.onrender.com";
 
 export const addSchool = async (schoolData) => {
   try {
