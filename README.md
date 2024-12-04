@@ -244,3 +244,16 @@ b)Frontend:
 - Add user authentication for secure access.
 - Integrate a geocoding API to convert addresses into latitude/longitude.
 - Improve UI/UX with better styling and interactive components.
+
+
+##### Postman link #####
+
+https://school-management-api-3987.postman.co/workspace/School-Management-APi-Workspace~bb5bd304-fc41-4ed0-bdb1-33a78af1ccf0/collection/38821324-c4e89a4a-e232-4c0b-a249-aade71f22ccd?action=share&creator=38821324
+
+#### Render Frontend ####
+
+https://complete-school-management-frontend.onrender.com/
+
+#### Render backend ####
+
+https://complete-school-management-backend.onrender.com
